@@ -5,9 +5,8 @@ account: bigthick
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 2016080
-bundleId: 2940084
+bundleId: 2940521
 url: https://bigthick.shinyapps.io/Social_distancing/
-when: 1585501284.17394
+when: 1585508582.44477
 asMultiple: FALSE
 asStatic: FALSE
-ignoredFiles: SIRplot_time70beta1.4gamma0.3.png

@@ -46,7 +46,14 @@ ui <- fluidPage(
     
     # Show a plot of the generated distribution
     mainPanel(
-      plotOutput("epidemic")
+      plotOutput("epidemic"),
+      strong("Instructions on how to use are as follows..."),
+      p("The social distancing factor slider ranges from 0 to 5 with 0 being complete isolation as in the infection rate is effectivly zero and with 5 being 
+        an almost uncontrollable infection. If the social distancing factor is low that means we are flattening the curve. If the rate is high then we aren't 
+        effectivley doing that. The rate of recovery is, much like it sounds, how long does it take for someone to recover and thus be added to the recovered pool
+        of people. The timeline input is how far out you would like to look based on the other initial conditions."),
+      p("The initial conditions when you open the app are that the infected multiply by 2.16 times a day and it takes 2 days to recover from said infection.")
+      
     )
   )
 )
