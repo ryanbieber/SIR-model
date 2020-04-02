@@ -57,7 +57,7 @@ ui <- fluidPage(
                   list("SIR", "SIRS")
                   ,width = 1000),
       
-      checkboxInput("vital", "Vital Dynamics",
+      checkboxInput("vital", "Vital Dynamics (Births and Deaths)",
                     TRUE)
 
       
