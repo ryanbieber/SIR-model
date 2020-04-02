@@ -5,8 +5,8 @@ account: bigthick
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 2016080
-bundleId: 2940521
+bundleId: 2957123
 url: https://bigthick.shinyapps.io/Social_distancing/
-when: 1585508582.44477
+when: 1585798312.71197
 asMultiple: FALSE
 asStatic: FALSE
