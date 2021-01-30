@@ -46,7 +46,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-I wanted to make a dashboard using the classical epidemiological model, SIR as well as SIRS which stand for Susceptible, Infected, Recovered, and S(reinfection rate). It turned into a very nice and easy to read dashboard that allows the user to use the sliders to changes the variables based on the characteristics of the epidemic.
+I wanted to make a dashboard using the classical epidemiological model, SIR as well as SIRS which stand for Susceptible, Infected, Recovered, and S(reinfection rate). It turned into a very nice and easy to read dashboard that allows the user to use the sliders to change the variables based on the characteristics of the epidemic.
 
 ### Built With
 
